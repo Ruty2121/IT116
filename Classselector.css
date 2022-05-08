@@ -1,0 +1,49 @@
+
+
+
+
+
+
+.crimson{
+    color:crimson;
+}
+
+.green{
+    color:grb(12,120,12)
+}
+
+.green{
+    color:darkgreen;
+}
+
+
+.yellow{
+    color:#fbec5d;
+}
+
+
+.blue{
+    color:blue;
+}
+
+
+
+
+
+.red{
+    color:darkred;
+}
+
+
+.orange{
+    color:orange;
+}
+
+
+button:hover{
+   background-color: red;
+}
+
+button:{
+    background-color: blue;
+}
