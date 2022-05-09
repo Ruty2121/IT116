@@ -47,3 +47,7 @@ button:hover{
 button:{
     background-color: blue;
 }
+/*This is the class selector */
+.tag{
+    color:red;
+}

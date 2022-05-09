@@ -1,0 +1,13 @@
+/* This is  my headre tag to a darkcyan color*/
+
+header > a{
+    color:darkcyan;
+    font-size: 30px;
+}
+
+
+/*This is where i used the id selector to change the color of the school anchor tags*/
+
+#schools a{
+    color:aqua;
+}

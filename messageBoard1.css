@@ -1,0 +1,96 @@
+/* */
+/* *{
+
+color:pink;
+background-color:green;
+
+} */
+
+/* */
+
+body {
+    background-color:white ;
+}
+/*This is where we change the font size of the button */
+button {
+    font-size: 30px;
+}
+
+/* */
+
+
+h1,h2 {
+    color:crimson;
+}
+
+/* */
+#signup {
+    background-color: green;
+    color:yellow;
+}
+
+/*This is where we change the color for the class tag */
+
+.tag{
+
+    color:green;
+}
+
+/* */
+.post a{
+    color:purple;
+}
+
+
+/* This is the decendent selector to change the color in the footer*/
+
+footer > a {
+    color:orange;
+}
+
+
+/* */
+
+input[type="password"]{
+    color:purple;
+}
+
+input[type="text"]{
+    color:green;
+}
+
+/* */
+
+a [href*="google"]{
+    color:darkblue;
+}
+
+
+/* */
+button:hover {
+    background-color: black;
+    color:blue;
+}
+
+
+/* */
+,post button:active {
+
+    background-color: green;
+}
+
+
+
+
+h2::first-letter {
+
+    font-size:50px;
+}
+
+
+
+/* */
+
+p::first-line {
+    color:deeppink;
+}
