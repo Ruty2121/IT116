@@ -1,8 +1,8 @@
-/* This is  my headre tag to a darkcyan color*/
+/* This is  my header tag to a darkcyan color*/
 
 header > a{
     color:darkcyan;
-    font-size: 30px;
+    font-size:30px;
 }
 
 
